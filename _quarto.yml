@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "IS website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: app1.qmd
+        text: Introduction
+      - href: about.qmd
+        text: About
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+editor: visual
+

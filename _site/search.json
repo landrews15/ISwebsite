@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "IS website",
+    "section": "",
+    "text": "Burning Questions\n\nAn interactive visualized data exploration into increasing wildfire trends in the United States and associated societal and environmental effects\nAn Independent Study Website by Laurel Andrews"
+  },
+  {
+    "objectID": "app1.html",
+    "href": "app1.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "Wildfires in the United States, particularly the west, are a becoming common occurrence. They continue to become more devastating every year wiping out ecosystems, damaging human communities, and emitting millions of metric tons of smoke.\nIn this interactive website, we will examine the causes, both human and environmental, for this increase as well its impact on society, climate, and ecosystems. This analysis will be approached using visual data science so we can see these trends for ourselves!\nI became particularly interested in wildfires after a devastating fire swept through my hometown of Santa Cruz, California in 2020. This ended up being the largest fire year in California’s modern recorded history with over 4% of the entire state’s land area (4,304,379 acres) burning that year.\n\n\n\nSmoke in Davenport, California. August 19, 2020. Photo by Laurel Andrews."
+  },
+  {
+    "objectID": "app1.html#wildfires-are-increasing-in-size-frequency-and-severity.",
+    "href": "app1.html#wildfires-are-increasing-in-size-frequency-and-severity.",
+    "title": "Introduction",
+    "section": "Wildfires are increasing in size, frequency, and severity.",
+    "text": "Wildfires are increasing in size, frequency, and severity.\nIn the past 50 years, the extreme increase in wildfires in the western US has become highly concerning for local human and environmental communities. There are 4 key trends with this increase:\n\nFires are increasing in number each year\nFires are becoming more severe (faster spreading, hotter flame temperatures, more erratic behavior)\nThe same areas are burning over and over\nFires are getting bigger\n\nBelow is a graph that shows the average size of all wildfires each month in the contiguous United States (lower 48) from 2000 - 2023. Along with showing this size increase over time (represented by the blue trend line), we can also see the seasonality of wildfires. Larger fires tend to occur in the summer whereas smaller fires occur in the winter.\n\nIn order to analyze the reasons for this increase, we need to understand where and how these wildfires are happening. Looking at characteristics of recent US wildfires wildfires will begin to give us a sense of the scope of this modern natural disaster."
+  },
+  {
+    "objectID": "app1.html#increasing-wildfires-what-does-the-data-tell-us",
+    "href": "app1.html#increasing-wildfires-what-does-the-data-tell-us",
+    "title": "Introduction",
+    "section": "",
+    "text": "Wildfires in the United States, particularly the west, are a becoming common occurrence. They continue to become more devastating every year wiping out ecosystems, damaging human communities, and emitting millions of metric tons of smoke.\nIn this interactive website, we will examine the causes, both human and environmental, for this increase as well its impact on society, climate, and ecosystems. This analysis will be approached using visual data science so we can see these trends for ourselves!\nI became particularly interested in wildfires after a devastating fire swept through my hometown of Santa Cruz, California in 2020. This ended up being the largest fire year in California’s modern recorded history with over 4% of the entire state’s land area (4,304,379 acres) burning that year.\n\n\n\nSmoke in Davenport, California. August 19, 2020. Photo by Laurel Andrews."
+  },
+  {
+    "objectID": "app1.html#where-are-the-wildfires-in-the-us",
+    "href": "app1.html#where-are-the-wildfires-in-the-us",
+    "title": "Introduction",
+    "section": "Where are the wildfires in the US?",
+    "text": "Where are the wildfires in the US?\nThe interactive visualization below shows all wildfires reported to the Federal Emergency Management Agency (FEMA) from 2014-2017. Toggle with the sliders and drop downs to explore different traits of these wildfires yourself and click on an individual point to see fire details.\n\n\nWe can see many trends from this map. For example, medium and large fires are most common in the western United States. Wildfire started by lightning appear to be more clustered in mountainous regions of the west. We can also see that fires which impact more buildings tend to be costlier. We will explore some of the reasons for these trends in the upcoming pages."
+  }
+]

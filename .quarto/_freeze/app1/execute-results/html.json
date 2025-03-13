@@ -1,0 +1,15 @@
+{
+  "hash": "9a948d36c7923cf9ea4ca35af995e092",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Introduction\"\nformat: html\n---\n\n\n\n\n## Wildfires are increasing in size, frequency, and severity.\n\nWildfires in the United States, particularly the west, are a becoming common occurrence. They continue to become more devastating every year wiping out ecosystems, damaging human communities, and emitting millions of metric tons of smoke.\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n#<iframe src=\"https://laurelandrews.shinyapps.io/map_layers/\" width=\"100%\" height=\"600px\">\n\n#</iframe>\n```\n:::\n\n\n\n\nI became particularly interested in wildfires after a devastating fire swept through my hometown of Santa Cruz, California in 2020, the worst wildfire year on record for the state of California.\n\n![Smoke in Davenport, California. August 19, 2020. Photo by Laurel Andrews.](images/IMG_2792.JPG)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

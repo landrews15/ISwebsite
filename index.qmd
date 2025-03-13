@@ -1,0 +1,9 @@
+---
+title: "IS website"
+---
+
+# Burning Questions
+
+#### An interactive visualized data exploration into increasing wildfire trends in the United States and associated societal and environmental effects
+
+An Independent Study Website by Laurel Andrews
