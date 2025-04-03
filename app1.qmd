@@ -35,7 +35,7 @@ In order to analyze the reasons for this increase, we need to understand where a
 
 The interactive visualization below shows all wildfires reported to the Federal Emergency Management Agency (FEMA) from 2014-2017. Toggle with the sliders and drop downs to explore different traits of these wildfires yourself and click on an individual point to see fire details.
 
-<iframe src="https://laurelandrews.shinyapps.io/us_fire_characteristics/" width="100%" height="600px">
+<iframe src="https://laurelandrews.shinyapps.io/us_fire_characteristics/" width="120%" height="600px">
 
 </iframe>
 
