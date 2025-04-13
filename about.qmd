@@ -1,9 +1,17 @@
 ---
-title: "About"
+title: "Conclusion"
 ---
 
-About this site
+## What will the future look like?
 
-```{r}
-1 + 1
-```
+Wildfires will likely only continue to get worse in the near future. Unless something major is done to halt the speed of global climate change, the impacts of larger, more severe, and more frequent wildfires will become increasingly extensive. In 2025, with the Trump administration in the White House, progress toward climate mitigation has already been reversing with major cuts to the Environmental Protection Agency (EPA) and Federal Emergency Management Agency (FEMA). These cuts are happening at a time when communities will only need more resources to change and adapt to the increased threat of fire. Adaptations might include preparing evacuation routes, establishing community support for those in need, shifting towards fire conscious building practices, reducing expansion into wildland areas, increasing controlled and indigenous cultural burns, ramping up emergency firefighting networks, and expanding social services. The societal and environmental impacts of wildfires will only continue to grow in scope and destructiveness if no action is taken in favor of sustainable wildfire management and climate mitigation.
+
+**There is no easy fix for increasing wildfires. However, any action to curb global climate change is progress toward a less destructive future.**
+
+## More Information
+
+This website was created by Laurel Andrews and presented in partial fulfillment of the requirements of Senior Independent Study, Spring 2025, at the College of Wooster.
+
+For more detailed information and complete citations, see my full Independent Study Thesis below:
+
+[Laurel Andrews Independent Study 2025](https://livewooster-my.sharepoint.com/:b:/g/personal/landrews25_wooster_edu/EQZGZL6Il-5CrI1LkBDSBz0BR3gGhfJo7Vix0-oDkBJtWA?e=kWXN1f)

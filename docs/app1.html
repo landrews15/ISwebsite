@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Introduction – IS website</title>
+<title>Introduction – Wildfire Data Exploration</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -71,7 +71,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -79,7 +79,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">IS website</span>
+    <span class="navbar-title">Wildfire Data Exploration</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -97,8 +97,20 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Introduction</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="./app2.html"> 
+<span class="menu-text">Causes</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./app3.html"> 
+<span class="menu-text">Environmental Impacts</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./app4.html"> 
+<span class="menu-text">Human Societal Impacts</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="./about.html"> 
-<span class="menu-text">About</span></a>
+<span class="menu-text">Conclusion</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -111,17 +123,7 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#increasing-wildfires-what-does-the-data-tell-us" id="toc-increasing-wildfires-what-does-the-data-tell-us" class="nav-link active" data-scroll-target="#increasing-wildfires-what-does-the-data-tell-us">Increasing Wildfires: What does the data tell us?</a></li>
-  <li><a href="#wildfires-are-increasing-in-size-frequency-and-severity." id="toc-wildfires-are-increasing-in-size-frequency-and-severity." class="nav-link" data-scroll-target="#wildfires-are-increasing-in-size-frequency-and-severity.">Wildfires are increasing in size, frequency, and severity.</a></li>
-  <li><a href="#where-are-the-wildfires-in-the-us" id="toc-where-are-the-wildfires-in-the-us" class="nav-link" data-scroll-target="#where-are-the-wildfires-in-the-us">Where are the wildfires in the US?</a></li>
-  </ul>
-</nav>
-    </div>
+    
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -146,15 +148,16 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="increasing-wildfires-what-does-the-data-tell-us" class="level2">
 <h2 class="anchored" data-anchor-id="increasing-wildfires-what-does-the-data-tell-us">Increasing Wildfires: What does the data tell us?</h2>
-<p>Wildfires in the United States, particularly the west, are a becoming common occurrence. They continue to become more devastating every year wiping out ecosystems, damaging human communities, and emitting millions of metric tons of smoke.</p>
-<p>In this interactive website, we will examine the causes, both human and environmental, for this increase as well its impact on society, climate, and ecosystems. This analysis will be approached using visual data science so we can see these trends for ourselves!</p>
+<p>Wildfires in the United States, particularly the west, are a becoming common occurrence. They continue to get more devastating every year wiping out ecosystems, damaging human communities, and emitting millions of metric tons of smoke.</p>
+<p>In this interactive website, we will examine the causes, both human and environmental, for this increase as well its impact on society, climate, and ecosystems. This analysis will be approached using interactive visual data science so we can see these trends for ourselves.</p>
 <p>I became particularly interested in wildfires after a devastating fire swept through my hometown of Santa Cruz, California in 2020. This ended up being the largest fire year in California’s modern recorded history with over 4% of the entire state’s land area (4,304,379 acres) burning that year.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="images/IMG_2792.JPG" class="img-fluid figure-img" width="452"></p>
+<p><img src="images/IMG_2792.JPG" class="img-fluid figure-img" width="523"></p>
 <figcaption>Smoke in Davenport, California. August 19, 2020. Photo by Laurel Andrews.</figcaption>
 </figure>
 </div>
+<hr>
 </section>
 <section id="wildfires-are-increasing-in-size-frequency-and-severity." class="level2">
 <h2 class="anchored" data-anchor-id="wildfires-are-increasing-in-size-frequency-and-severity.">Wildfires are increasing in size, frequency, and severity.</h2>
@@ -166,13 +169,19 @@ ul.task-list li input[type="checkbox"] {
 <li><p>Fires are getting bigger</p></li>
 </ol>
 <p>Below is a graph that shows the average size of all wildfires each month in the contiguous United States (lower 48) from 2000 - 2023. Along with showing this size increase over time (represented by the blue trend line), we can also see the seasonality of wildfires. Larger fires tend to occur in the summer whereas smaller fires occur in the winter.</p>
-<p><img src="images/clipboard-3895590959.png" class="img-fluid" width="494"></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/clipboard-3895590959.png" class="img-fluid figure-img" width="527"></p>
+<figcaption>Average size of wildfires in the contiguous United States by month (2000-2024) (NOAA)</figcaption>
+</figure>
+</div>
 <p>In order to analyze the reasons for this increase, we need to understand where and how these wildfires are happening. Looking at characteristics of recent US wildfires wildfires will begin to give us a sense of the scope of this modern natural disaster.</p>
+<hr>
 </section>
 <section id="where-are-the-wildfires-in-the-us" class="level2">
 <h2 class="anchored" data-anchor-id="where-are-the-wildfires-in-the-us">Where are the wildfires in the US?</h2>
 <p>The interactive visualization below shows all wildfires reported to the Federal Emergency Management Agency (FEMA) from 2014-2017. Toggle with the sliders and drop downs to explore different traits of these wildfires yourself and click on an individual point to see fire details.</p>
-<iframe src="https://laurelandrews.shinyapps.io/us_fire_characteristics/" width="120%" height="600px">
+<iframe src="https://laurelandrews.shinyapps.io/us_fire_characteristics/" width="130%" height="600px">
 </iframe>
 <p>We can see many trends from this map. For example, medium and large fires are most common in the western United States. Wildfire started by lightning appear to be more clustered in mountainous regions of the west. We can also see that fires which impact more buildings tend to be costlier. We will explore some of the reasons for these trends in the upcoming pages.</p>
 

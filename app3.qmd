@@ -1,0 +1,62 @@
+---
+title: "Environmental Impacts"
+format: html
+---
+
+## Wildfires are natural processes, but not on this scale.
+
+Most ecosystems are evolved in some way for wildfires. In their natural frequency, wildfires benefit fire-reliant species, produce nutrient-rich ash, kill pests and invasive species, and reset ecological succession. With wildfires changing from their historical frequency, intensity, and size, environmental damage is significantly greater.
+
+------------------------------------------------------------------------
+
+**Impacts on Organisms:**
+
+-   Death and injury of species
+
+-   Species displacement
+
+-   Temporarily disrupted predator-prey relationships
+
+-   Loss of nesting sites and shelter
+
+-   Long-term ecosystem change
+
+Intense fires do significant damage to trees like jumping between canopies to kill stands immediately, harming bark and water transport, burning through soil along roots impacting regeneration, and weakening trees such that they are more susceptible to disease. The interactive visualization below shows tree cover loss over time due to wildfires. Move the slider to select a year or click play to watch the change over time.
+
+<iframe src="https://laurelandrews.shinyapps.io/us_tree_cover_loss/" width="130%" height="600px">
+
+</iframe>
+
+------------------------------------------------------------------------
+
+**Impacts of smoke:**
+
+-   Smoke particles replace oxygen in the air leading to death from suffocation
+
+-   Long term lung damage for animals
+
+-   Wind moves smoke long distances confusing species
+
+-   Masking odors used for navigation
+
+-   Blocking light disrupting photosynthesis for aquatic plants
+
+In recent years, heavy smoke has become so common, especially in the western US, that some species are facing significant smoke every year. The interactive visualization below shows smoke levels by county in California from 2010-2019. Use the slider to select a month and year or click play to watch the change over time.
+
+<iframe src="https://laurelandrews.shinyapps.io/ca_smoke/" width="130%" height="600px">
+
+</iframe>
+
+Notice the seasonality of smoke prevalence with the heaviest and most smoke occurring the the summer.
+
+------------------------------------------------------------------------
+
+**Soil and Water Quality Impacts:**
+
+When extreme wildfires burn all the roots and plant matter in the soil, it becomes loose, degraded, and easily eroded. Then, if there is a large storm after a wildfire, soil erodes easily in form of landslides contaminating waterways with sediment. This sediment brings excess phosphorous into aquatic ecosystems leading to over-growth of algae, depleting oxygen in the water which kills other aquatic life. Ash, warmer temperatures, and fire retardants can also be harmful to sensitive underwater ecosystems.
+
+When fires burn plastic from human-made structures, microplastics are released into soils, aquifers, and waterways. Microplastics change soil structure, reduce nutrients and water availability, and kill soil microbes. Microplastics also block water absorption for plants, damage the nervous systems of animals, increase cancer risks, disrupt hormone function, and travel all the way to the ocean without biodegrading.
+
+![Burned hillslopes shedding sediment, 2020 CZU Lightning Complex Fire in California. Source: USGS](images/clipboard-2138227095.png){fig-align="center" width="593"}
+
+These impacts on the environment are hugely problematic for species, ecosystems and also human societies. On the next page, we will focus more on these human societal impacts.

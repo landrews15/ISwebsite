@@ -1,0 +1,54 @@
+---
+title: "Human Societal Impacts"
+format: html
+---
+
+## Increasing wildfires have major impacts on human life.
+
+Thousands of people in the United States have their lives disrupted by wildfires every year. And this is only increasing.
+
+------------------------------------------------------------------------
+
+**Infrastructure Impacts:**
+
+Temperatures in extreme fires will melt virtually anything they touch, and modern building materials are not designed to withstand this heat, emitting millions of metric tonnes of toxic smoke. In addition, wildfires:
+
+-   Obstruct and damage roads and bridges
+
+-   Contaminate drinking water
+
+-   Melt pipes
+
+-   Impair large-scale municipal systems such as electrical grids, cell-phone coverage, gas lines, and sewage systems
+
+![January 2025 Los Angeles Wildfires. Source: The Associated Press](images/clipboard-2635443912.png){fig-align="center" width="500"}
+
+------------------------------------------------------------------------
+
+**Human Health Impacts:**
+
+Wildfires can directly harm humans through burns, lacerations or cuts, broken bones from falling, evacuation car accidents, and chemical burns. However, smoke exposure has much more detrimental and far reaching effects such as:
+
+-   Short term: lung issues, headaches, eye and throat irritation, chest pain
+
+-   Long term: increased cancer risk, dementia, reduced immune system function, heart, lung, and kidney diseases, adverse mental health effects
+
+Children, elderly people, outdoor workers, and people with preexisting conditions are generally more susceptible to these negative effects.
+
+![Smoke on California Highway 1. August 19, 2020. Photo by Laurel Andrews](images/clipboard-3521765438.png){fig-align="center" width="541"}
+
+------------------------------------------------------------------------
+
+**Economic Costs and Socioeconomic Impacts:**
+
+According to the United States Joint Economic Committee, the total cost of wildfires in the US is up to \$893 billion per year. This cost comes from many both direct and indirect costs broken down in the chart below.
+
+![](images/clipboard-2697637166.png){fig-align="center" width="556"}
+
+Like many other natural disasters worsened by climate change, already disenfranchised communities tend to feel the effects hardest. Majority Black, Latino, or Native American communities experience a 50% greater vulnerability to wildfires than other communities. In the interactive visualization below, you can click on a county in California to see its wildfire risk and demographics. Notice how in many riskier counties, there are higher proportions of socially vulnerable groups.
+
+<iframe src="https://laurelandrews.shinyapps.io/ca_risk_demographics/" width="130%" height="600px">
+
+</iframe>
+
+As wildfires become more common, home insurance companies are beginning to leave more homes uninsured, which leaves marginalized people with little security in the event of damage to their homes.

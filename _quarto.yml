@@ -3,15 +3,21 @@ project:
   output-dir: docs
 
 website:
-  title: "IS website"
+  title: "Wildfire Data Exploration"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - href: app1.qmd
         text: Introduction
+      - href: app2.qmd
+        text: Causes
+      - href: app3.qmd
+        text: Environmental Impacts
+      - href: app4.qmd
+        text: Human Societal Impacts        
       - href: about.qmd
-        text: About
+        text: Conclusion
 
 format:
   html:
@@ -19,7 +25,7 @@ format:
       - cosmo
       - brand
     css: styles.css
-    toc: true
+    toc: false
 
 editor: visual
 
